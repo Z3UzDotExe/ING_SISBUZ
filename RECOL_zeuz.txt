@@ -1,0 +1,76 @@
+--------- Sistema Buzon de quejas y sugerencias del instituto. -----------
+PARA LA DESCRIPCION DEL SRS DEL SISTEMA.
+*Contexto general o problematica general:
+R:
+-Proposito segun chelis:
+facilitar el control de las quejas y sugerencias de los clientes por medio de un sistema que permita llevar registro.
+-Proposito facilitar un medio de comunicacion para escuchar las peticiones,quejas/sugerencias de los clientes(estudiantes)
+para mejorar los servicios ofrecidos por la institucion.
+-Brindar una herramienta para mejorar el servicio que se le brindan al alumnado, con la finalidad tener poder brindar
+un servicio de mejor calidad, con esto poder reducir tiempo en la resolucion de problemas y poder tener un buen seguimiento.
+
+
+
+*Cual es el proposito o finalidad basica del modulo de Buzon y quejas?
+R:Forma de comunicacion de los clientes para escuchar los servicios ofrecidos por las institucion, verificar el cumplimiento de los servicios del itsur que se brindan durante 
+el curso de la carrera a un estudiante.
+Escuchar y darse cuenta que los servicio ofrecidos se estas ofreceindoa
+verificar el cumplimiento de los servicios de la institucion. 
+Elemento de mejora para los servicios comprometidos.
+
+
+
+PARA ENTENDER EL PROCESO PRINCIPAL.
+*Proceso o metodologia que utilizan para realizar una queja en el buzon y administrar la queja.
+-Del lado del quejante:
+identifica un buzon, manifiesta su queja, llena los campos,etc.
+-Del lado del Administrador:
+analiza la descripcion de la queja e identifica la zona a quien esta dirigida la queja, proceso de escaner, y es enviado a la zona dirigida para su atencion.
+espera una validacion de atencion y alcanze de atencion.
+
+
+PARA EL ENTENDIMIENTO DEL CONTENIDO DE LA HOJA, LOS DATOS QUE CONTIENE.
+*Estructura o datos que contiene la hoja de la hoja de queja de un alumno, que datos requiere una hoja de queja:
+R:
+
+
+
+
+PARA DEFINIR ROLES DE USUARIO.
+*Quienes interactuan en la actividad?
+R: 
+Directivos, cliente y calidad. 
+
+
+QUE SE PRODUCE CON LA QUEJA.
+*Con la informacion o queja dada(se guarda o se elimina la hoja), que se produce?
+R:
+ estadistico cuanttas se hacen a que mes.
+-Reporte cuantas en proceso, en correccion,cuantas terminadas.
+-bitacora de correccion y planeacion.
+
+
+
+
+
+
+
+
+Algunas consideraciones del dueño:
+Las quejas tienen un impacto tienen nivel jerarquico.
+cuando una queja es recibida este asigna un folio.
+las contestaciones con el cliente las realiza con llamada telefonica o correo electronicos.
+
+
+
+
+
+
+el encargado reliza un reporte cada tiempo para ver cuantas fueron atendidas y las demas que estan en proceso.
+
+
+
+
+
+
+
