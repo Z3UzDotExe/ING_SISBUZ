@@ -1,0 +1,10 @@
+Funciones principales del SIS-BQSF
+	1. Administración individual de la QSF: 
+		Mediante la pagina web SIS-BQSF se realizara la obtencion de los datos de la QSF que los usuarios ingresen.
+	2. Almacenamiento de informacion: 
+		Los datos ingresados previamente se guardaran en un base de datos para su posterior utilización.
+	3. Generacion de reportes:
+		Los reportes son generados semestral, trimestral o mensual, los datos son tomados de la informacion registrada en la BD.  
+	4. Notificacion en tiempo real: 
+		La aplicacion de escritorio generara un mensaje cada vez que se crea una QSF siempre y cuando la aplicacion este en ejecucion, en caso de que un boton para actualizar los datos que se encuentran en la BD 
+		
