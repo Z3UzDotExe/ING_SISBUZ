@@ -1,0 +1,31 @@
+SIS-BQSF (Sistema de Buzón de Quejas Sugerencias y/o Felicitaciones)
+
+Funcionamiento del sistema de control de SIS-BQSF.
+
+El sistema de control SIS-BQSF cuenta con 6 buzones distribuidos por varias partes del Instituto 
+Tecnológico Superior del Sur de Guanajuato, los buzones son abiertos en un periodo de 15 días 
+para la revisión de SIS-BQSF.
+
+El SIS-BQSF lo puede utilizar personas que tengan relación con el Instituto Tecnológico 
+Superior del Sur de Guanajuato.
+
+Las queja se pueden categorizar en alguna de las secciones (administrativa, control de calidad, etc.) 
+del Instituto Tecnológico Superior del Sur de Guanajuato.
+
+Se puede dar prioridad a las quejas dependiendo el tipo.
+
+Al cliente final de le debe de dar una respuesta clara de las acciones que se está implementando para 
+resolver la QSF, Se le notifica por medio del correo, teléfono o personalmente de acuerdo a la 
+Información proporcionada al realizar la QSF.
+
+Si es un plan de acción se debe de poner en una bitácora de acción para sus respectivas acciones. 
+
+Cada trimestre se hace un reporte del status del SIS-BQSF, para ver el trabajo que se realizó.
+
+Las QSF son descartadas si no tienen relación con la formación académica de los estudiantes del
+Instituto Tecnológico Superior del Sur de Guanajuato.
+
+Algunas quejas no son solucionadas debido a problemas de recursos.
+
+Las quejas deben contar con datos verídicos para que se le pueda dar seguimiento, de lo 
+contrario serán descartadas.
