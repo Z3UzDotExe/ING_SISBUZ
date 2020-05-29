@@ -32,9 +32,43 @@ values
 insert into usuarios(ClaveUsuario,NoControl,Nombre,EsAlumno,Telefono,Correo)
 values
 (null,'S16120302','José Luis González Ruiz','Si','4453232434','fire21@gmail.com');
+
+
+
 insert into qsf(ClaveQSF,Prioridad,Estatus,Departamento,Tipo_Servicio,Descripcion,Fecha,UsuarioSolicitante)
 values
 (null,'Baja','No iniciada','Calidad','Queja','No hay clases por el COVID-19', 20190528,1);
+
+insert into qsf(ClaveQSF,Prioridad,Estatus,Departamento,Tipo_Servicio,Descripcion,Fecha,UsuarioSolicitante)
+values
+(null,'Media','En proceso','Calidad','Queja','No hay clases por el COVID-19', 20190528,1);
+
+insert into qsf(ClaveQSF,Prioridad,Estatus,Departamento,Tipo_Servicio,Descripcion,Fecha,UsuarioSolicitante)
+values
+(null,'Alta','Finalizada','Calidad','Queja','No hay clases por el COVID-19', 20190528,1);
+
+insert into qsf(ClaveQSF,Prioridad,Estatus,Departamento,Tipo_Servicio,Descripcion,Fecha,UsuarioSolicitante)
+values
+(null,'Alta','Rechazada','Calidad','Queja','No hay clases por el COVID-19', 20190528,1);
+
+insert into qsf(ClaveQSF,Prioridad,Estatus,Departamento,Tipo_Servicio,Descripcion,Fecha,UsuarioSolicitante)
+values
+(null,'Media','En proceso','Calidad','Queja','No hay clases por el COVID-19', 20190528,1);
+
+insert into qsf(ClaveQSF,Prioridad,Estatus,Departamento,Tipo_Servicio,Descripcion,Fecha,UsuarioSolicitante)
+values
+(null,'Baja','Finalizada','Calidad','Queja','No hay clases por el COVID-19', 20190528,1);
+
+insert into qsf(ClaveQSF,Prioridad,Estatus,Departamento,Tipo_Servicio,Descripcion,Fecha,UsuarioSolicitante)
+values
+(null,'Alta','No iniciada','Calidad','Queja','No hay clases por el COVID-19', 20190528,1);
+
+insert into qsf(ClaveQSF,Prioridad,Estatus,Departamento,Tipo_Servicio,Descripcion,Fecha,UsuarioSolicitante)
+values
+(null,'Baja','En proceso','Calidad','Queja','No hay clases por el COVID-19', 20190528,1);
+
 select * from usuarios;
 select * from qsf;
 select * from administrador;
+
+select * from qsf where Departamento = 'Calidad' and Estatus= 'No iniciada' and Prioridad='Baja';
